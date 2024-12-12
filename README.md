@@ -30,15 +30,15 @@
      Há três páginas no programa:
    
          1.	Home:  
-               Acessado por: http://localhost:3000/
+               Acessada por: http://localhost:3000/
                Ver Figura 3.1 presente na última seção 6. Imagens. 
          
          2.	Lista de produtos:  
-               Acessado por: http://localhost:3000/api/products
+               Acessada por: http://localhost:3000/api/products
                Ver Figura 3.2 presente na última seção 6. Imagens. 
          
          3.	Descrição do produto:  
-               Acessado por: http://localhost:3000/api/products/{id}
+               Acessada por: http://localhost:3000/api/products/{id}
                Ver Figura 3.3 presente na última seção 6. Imagens. 
  
 4. Rotas e Controladores
