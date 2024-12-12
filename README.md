@@ -12,7 +12,14 @@
  
 3. Instalação
    
-    Para fazer a instalação faça a cópia do repositório e se preferir instale o bando de dados já fornecido na pasta database com o nome do db sendo laravel. Rode o comando composer install na raiz da pasta backend.
+    Para fazer a instalação siga os seguintes passos:
+    1. Faça a cópia do repositório.
+    2. Se preferir instale o banco de dados já fornecido na pasta database colocando o nome do db como laravel, se        não fizer dessa forma, a instalação do banco de dados terá que ser de outra forma que não será listada aqui.
+    3. Rode o comando composer install na raiz da pasta backend.
+    4. Crie um arquivo chamado .env na raiz da pasta backend.
+    5. Copie o conteúdo do arquivo .env.example para o arquivo .env.
+    6. Rode o comando php artisan key:generate no CLI na raiz da pasta backend.
+    7. Na raiz da pasta frontend no CLI rode o comando npm install.
  
 5. Iniciação do software
    
