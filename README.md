@@ -12,7 +12,7 @@
  
 3. Instalação
    
-    Para fazer a instalação faça a cópia do repositório e se preferir instale o bando de dados já fornecido na pasta database com o nome do db sendo laravel. 
+    Para fazer a instalação faça a cópia do repositório e se preferir instale o bando de dados já fornecido na pasta database com o nome do db sendo laravel. Rode o comando composer install na raiz da pasta backend.
  
 5. Iniciação do software
    
