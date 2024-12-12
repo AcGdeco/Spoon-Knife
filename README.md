@@ -190,11 +190,7 @@ Comando: ./vendor/bin/phpunit tests/feature/ProductControllerTest.php
      Figura 3.1: Home.   
 ![Home](images/Home.jpg)<br>
                                                                           
-     Figura 3.2: Lista de produtos. 
-![Product List](images/ProductList.jpg)<br> 
-                                                                           
-      Figura 3.3: Descrição do produto. 
-![Product Description](images/ProductDescription.jpg)<br> 
+
                                                                           
  
 
